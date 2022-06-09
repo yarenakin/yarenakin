@@ -1,5 +1,5 @@
   <p align="center">
-  <img src="[demo.gif](https://github.com/yarenakin/yarenakin/blob/main/assets/hello.gif)" alt="animated" /></p>
+  <img src="https://github.com/yarenakin/yarenakin/blob/main/assets/hello.gif" alt="animated" /></p>
 
 
    ![](https://github.com/yarenakin/yarenakin/blob/main/assets/giphy.gif)
