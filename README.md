@@ -1,4 +1,4 @@
-![](https://github.com/yarenakin/yarenakin/blob/main/assets/hellocoders_rounded.gif)
+![](https://github.com/yarenakin/yarenakin/blob/main/assets/hello.gif)
 
 
 ![](https://github.com/yarenakin/yarenakin/blob/main/assets/giphy.gif)
