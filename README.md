@@ -1,4 +1,4 @@
-![](https://github.com/yarenakin/yarenakin/blob/main/assets/giphy-bug.gif)
+![](https://github.com/yarenakin/yarenakin/blob/main/assets/keepcoding.gif)
 
 
 ![](https://github.com/yarenakin/yarenakin/blob/main/assets/giphy.gif)
