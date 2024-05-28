@@ -18,5 +18,5 @@
 
 ## 📫 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/yarenakin/))
+- [LinkedIn](https://www.linkedin.com/in/yarenakin/)
 - [Email](mailto:yarenakin00@outlook.com)
