@@ -31,12 +31,13 @@
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 - ![Ninja Build](https://img.shields.io/badge/-Ninja_Build-0696D7?style=flat&logo=ninja&logoColor=white)
+- ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white)
 
 ### Specialized Areas
 - **VTK + WASM** Integration
 - **Conan 2** for dependency management
 - Developing with **Emscripten** for WebAssembly projects
-
+- GUI development with **Qt**
 ---
 
 ## 📫 Connect with Me
