@@ -1,12 +1,10 @@
-<p align="center">
-  <img src="https://github.com/yarenakin/yarenakin/blob/main/assets/hello.gif" alt="animated" />
-</p>
+
 
 <p align="center">
   <img src="https://github.com/yarenakin/yarenakin/blob/main/assets/giphy.gif" alt="animated" />
 </p>
 
-<p align="center">🌱 I’m currently learning Machine Learning.</p>
+<p align="center">🌱 I’m currently learning life.</p>
 <p align="center">⚡ Fun fact: The green code in The Matrix was actually created from symbols in the code designer’s wife’s sushi cookbook.</p>
 
 ---
@@ -43,4 +41,4 @@
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/yarenakin/)
-- [Email](mailto:yarenakin00@outlook.com)
+- [Email](mailto:akin.yaren@outlook.com)
