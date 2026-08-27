@@ -1,44 +1,116 @@
+<div align="center">
 
+<img src="assets/giphy.gif" width="340" alt="" />
 
-<p align="center">
-  <img src="https://github.com/yarenakin/yarenakin/blob/main/assets/giphy.gif" alt="animated" />
-</p>
+<h1>Yaren&nbsp;Akın</h1>
 
-<p align="center">🌱 I’m currently learning life.</p>
-<p align="center">⚡ Fun fact: The green code in The Matrix was actually created from symbols in the code designer’s wife’s sushi cookbook.</p>
+<p><i>Software Engineer&nbsp;&nbsp;·&nbsp;&nbsp;Full Stack</i></p>
+<p><sub>İstanbul, Türkiye</sub></p>
 
----
+<a href="https://www.linkedin.com/in/yarenakin/">
+  <img src="https://img.shields.io/badge/LinkedIn-8FA6BF?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:akin.yaren@outlook.com">
+  <img src="https://img.shields.io/badge/E–posta-B8A6C9?style=flat-square&logo=maildotru&logoColor=white" alt="E-posta" />
+</a>
 
-## 🛠 Skills
+</div>
 
-### Programming Languages
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+<br />
 
-### Frontend Development
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+I build backend services and desktop applications, and I have been working across the
+C++ and C# ecosystems since 2021. I enjoy owning both sides of a product — the services
+underneath and the interface people actually touch.
 
-### Tools and Platforms
-- ![VTK](https://img.shields.io/badge/-VTK-0078D7?style=flat&logo=vtk&logoColor=white)
-- ![Emscripten](https://img.shields.io/badge/-Emscripten-FFCC00?style=flat&logo=emscripten&logoColor=white)
-- ![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=white)
-- ![Conan](https://img.shields.io/badge/-Conan-00ADEF?style=flat&logo=conan&logoColor=white)
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-- ![Ninja Build](https://img.shields.io/badge/-Ninja_Build-0696D7?style=flat&logo=ninja&logoColor=white)
-- ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white)
+Right now I am a **Specialist Software Engineer at A101**, working end to end on
+a platform, the platform that runs store operations across a nationwide retail network.
+I develop its .NET backend services and Angular frontend: store reporting, user and
+permission management, payment and checkout flows, and POS integrations.
 
-### Specialized Areas
-- **VTK + WASM** Integration
-- **Conan 2** for dependency management
-- Developing with **Emscripten** for WebAssembly projects
-- GUI development with **Qt**
----
+Before that, at **Armada Yazılım**, I built a Qt&nbsp;6 / C++ / VTK desktop 3D editor for a
+dental CAD/CAM product family, then compiled the same C++17 codebase to WebAssembly with
+Emscripten to turn it into a mesh editor that runs in the browser at near-native speed.
 
-## 📫 Connect with Me
+<br />
 
-- [LinkedIn](https://www.linkedin.com/in/yarenakin/)
-- [Email](mailto:akin.yaren@outlook.com)
+<div align="center">
+
+<sub>· · ·</sub>
+
+</div>
+
+<br />
+
+### Teknolojiler
+
+<table>
+<tr>
+<td valign="middle" width="130"><sub><b>Diller</b></sub></td>
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="38" height="38" alt="C++" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="38" height="38" alt="C" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="38" height="38" alt="C#" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="38" height="38" alt="Java" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" height="38" alt="Python" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><sub><b>Backend</b></sub></td>
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="38" height="38" alt=".NET" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="38" height="38" alt="Spring Boot" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="38" height="38" alt="PostgreSQL" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="38" height="38" alt="MySQL" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><sub><b>Frontend</b></sub></td>
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="38" height="38" alt="Angular" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="38" height="38" alt="HTML5" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38" height="38" alt="CSS3" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><sub><b>Grafik &amp; 3B</b></sub></td>
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="38" height="38" alt="Qt" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="38" height="38" alt="OpenCV" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wasm/wasm-original.svg" width="38" height="38" alt="WebAssembly" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><sub><b>Araçlar</b></sub></td>
+<td>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="38" height="38" alt="Git" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="38" height="38" alt="Docker" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="38" height="38" alt="Jenkins" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" width="38" height="38" alt="CMake" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="38" height="38" alt="Linux" />
+</td>
+</tr>
+</table>
+
+<br />
+
+### Biraz da
+
+<sub>
+🥇&nbsp; Teknofest 2018 Su Altı Sistemleri — Türkiye birincisi (ROV takımı)&nbsp;&nbsp;·&nbsp;&nbsp;
+🎓&nbsp; KTÜ, Elektrik-Elektronik Mühendisliği&nbsp;&nbsp;·&nbsp;&nbsp;
+🎧&nbsp; Udemy'de OpenCV &amp; C++ eğitim içeriği
+</sub>
+
+<br />
+<br />
+
+<div align="center">
+
+<img height="140" src="https://github-readme-stats.vercel.app/api?username=yarenakin&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=B8A6C9&title_color=8FA6BF&text_color=8A94A0&ring_color=8FA6BF" alt="" />
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarenakin&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&title_color=8FA6BF&text_color=8A94A0" alt="" />
+
+<br />
+<br />
+</div>
